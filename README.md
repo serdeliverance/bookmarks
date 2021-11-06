@@ -1,5 +1,11 @@
 # bookmarks
 
+## Scala
+
+### talks
+
+- [Free monads or tagless final?](https://www.youtube.com/watch?v=IhVdU4Xiz2U&ab_channel=ScalaIOFR) by `Adam Warsky`
+
 ## Haskell
 
 ### Talks
