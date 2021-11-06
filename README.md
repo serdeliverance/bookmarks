@@ -38,7 +38,7 @@
 
 - [Machine Learning bookmarks](https://github.com/EthicalML/awesome-production-machine-learning)
 
-- [Course of Machine Learning](https://www.coursera.org/learn/machine-learning) by Standford University (Coursera)
+- [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Standford University (Coursera)
 
 ### libraries and tools
 
