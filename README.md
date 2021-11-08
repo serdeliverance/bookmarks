@@ -18,6 +18,8 @@
 
 - [grpcurl talk](https://www.youtube.com/watch?v=dDr-8kbMnaw&ab_channel=GopherAcademy)
 
+- [Go concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&ab_channel=GoogleDevelopers) by Google
+
 ## gRPC
 
 ### resources
@@ -27,6 +29,11 @@
 ### Protocol buffers
 
 - [repo](https://github.com/protocolbuffers/protobuf)
+
+- [Concurrency in Go](https://www.youtube.com/watch?v=LvgVSSpwND8&ab_channel=JakeWright) by Jake Wright
+
+- [Go crash course](https://www.youtube.com/watch?v=SqrbIlUwR0U&ab_channel=TraversyMedia)
+
 - [developers guide](https://developers.google.com/protocol-buffers/docs/tutorials)
 
 ### tools
