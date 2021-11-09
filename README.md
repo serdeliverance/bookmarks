@@ -6,6 +6,8 @@
 
 - [Free monads or tagless final?](https://www.youtube.com/watch?v=IhVdU4Xiz2U&ab_channel=ScalaIOFR) by `Adam Warsky`
 
+- [Composable Event Sourcing with Monads](https://www.youtube.com/watch?v=kDkRRkkVlxQ&ab_channel=ErlangSolutions)
+
 ## Haskell
 
 ### Talks
