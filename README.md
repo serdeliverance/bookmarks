@@ -53,6 +53,8 @@
 
 - [Machine Learning course](https://www.coursera.org/learn/machine-learning) by Standford University (Coursera)
 
+- [11 ML algorithms you should know](https://medium.com/codex/11-ml-algorithms-you-should-know-in-2021-8fecbd3a2a1a)
+
 ### libraries and tools
 
 - [redisai-go](https://github.com/RedisAI/redisai-go)
