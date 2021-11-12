@@ -22,6 +22,18 @@
 
 - [Go concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&ab_channel=GoogleDevelopers) by Google
 
+## CTCI
+
+### Design Systems
+
+- [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
+
+- [System design architecture for hotel booking app](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
+
+### Resources
+
+- [Systems Design Interview (book)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
+
 ## gRPC
 
 ### resources
@@ -60,3 +72,8 @@
 ### libraries and tools
 
 - [redisai-go](https://github.com/RedisAI/redisai-go)
+
+## Apache Pulsar
+
+- [Apache Pulsar with Scala](https://www.youtube.com/watch?v=u4lTUIFm1lw&ab_channel=RocktheJVM) by Rock the JVM
+- [Apache Pulsar architecture](https://www.youtube.com/watch?v=De6avNyQUMw&ab_channel=Devoxx) by Devoxx Conf
