@@ -83,6 +83,10 @@
 
 - [redisai-go](https://github.com/RedisAI/redisai-go)
 
+## Blockchain
+
+- [Solidity/Blockchain courses](https://eattheblocks.com/) by `Eat the Blocks`
+
 ## Apache Pulsar
 
 - [Apache Pulsar with Scala](https://www.youtube.com/watch?v=u4lTUIFm1lw&ab_channel=RocktheJVM) by Rock the JVM
