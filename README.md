@@ -38,6 +38,12 @@
 
 - [Systems Design Interview (book)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
 
+## Kafka
+
+- [Introducing the Kafka Consumer API](https://www.confluent.io/blog/tutorial-getting-started-with-the-new-apache-kafka-0-9-consumer-client/) by Confluent
+
+- [Building a High Level SDK for Kafka - Greyhound Unleashed](https://www.wix.engineering/post/building-a-high-level-sdk-for-kafka-greyhound-unleashed) by Wix
+
 ## gRPC
 
 ### resources
