@@ -8,6 +8,10 @@
 
 - [Composable Event Sourcing with Monads](https://www.youtube.com/watch?v=kDkRRkkVlxQ&ab_channel=ErlangSolutions)
 
+- [Compose your program flow with Stream](https://www.youtube.com/watch?v=x3GLwl1FxcA&t=189s&ab_channel=Klarna) by Fabio Labella
+
+- [Scala at Scale at Databricks](https://www.youtube.com/watch?app=desktop&v=UiN6yZPAYww&ab_channel=ScalaCon)
+
 ## Haskell
 
 ### Talks
