@@ -87,6 +87,24 @@
 
 - [Solidity/Blockchain courses](https://eattheblocks.com/) by `Eat the Blocks`
 
+- [Learn blockchain - The complete beginner's guide](https://www.youtube.com/watch?v=99pYGpTWcXM&ab_channel=DappUniversity)
+
+- [Creating a blockchain with Javascript](https://www.youtube.com/watch?v=zVqczFZr124&ab_channel=SimplyExplained) by `Simply Explained`
+
+- [How does blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4&ab_channel=SimplyExplained) by `Simply Explained`
+
+- [Proof fo stake vs Proof of Work](https://www.youtube.com/watch?v=M3EFi_POhps&ab_channel=SimplyExplained) by `Simple Explained`
+
+- [How bitcoin works](https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown)
+
+- [What is a Blockchain](https://www.youtube.com/watch?v=3xGLc-zz9cA&ab_channel=LucasMostazo)
+
+- [Blockchain in 7 minutes](https://www.youtube.com/watch?v=yubzJw0uiE4&ab_channel=Simplilearn)
+
+- [Blockchain explained](https://www.youtube.com/watch?v=QphJEO9ZX6s&ab_channel=IBMTechnology)
+
+- [Blockchain under the hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&ab_channel=CuriousInventor)
+
 ## Apache Pulsar
 
 - [Apache Pulsar with Scala](https://www.youtube.com/watch?v=u4lTUIFm1lw&ab_channel=RocktheJVM) by Rock the JVM
