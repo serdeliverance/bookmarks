@@ -71,6 +71,10 @@
 - [grpcurl](https://github.com/fullstorydev/grpcurl): a CLI for communicating with gRPC servers
 - [prototools](https://github.com/sourcegraph/prototools): tools for generating docs (html, json, etc)
 
+## Distributed Systems
+
+- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class/blob/master/README.markdown)
+
 ## Machine Learning
 
 ### resources
