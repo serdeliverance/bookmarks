@@ -12,6 +12,14 @@
 
 - [Scala at Scale at Databricks](https://www.youtube.com/watch?app=desktop&v=UiN6yZPAYww&ab_channel=ScalaCon)
 
+### Typelevel
+
+#### fs2
+
+- [Streaming patterns with fs2](http://www.beyondthelines.net/programming/streaming-patterns-with-fs2/)
+
+- [A small guide to circe-fs2](https://benfradet.github.io/blog/2017/07/29/a-small-guide-to-circe-fs2)
+
 ## Haskell
 
 ### Talks
