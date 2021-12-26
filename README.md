@@ -83,6 +83,8 @@
 
 - [75 Leetcode Problems by a Facebook Tech Lead](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
+- [Neetcode (Youtube Channel)](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
+
 ### Design Systems
 
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
