@@ -36,13 +36,13 @@
 
 ## CTCI
 
-### Algorithsm
+### Algorithms
 
 - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) by `MIT`
 
 - [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org) by `FreeCodeCamp`
 
-- [Links Recommendations ;)]
+- `Links Recommendations ;)`
 
     - Data Structures
 
