@@ -36,11 +36,50 @@
 
 ## CTCI
 
-### Algorithsm
+### Algorithms
 
 - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) by `MIT`
 
 - [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk&ab_channel=freeCodeCamp.org) by `FreeCodeCamp`
+
+- `Links Recommendations ;)`
+
+    - Data Structures
+
+        - [Array](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+        - [Linked List](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists)
+        - [Trees](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+            - [Binary/Balanced](https://www.hackerrank.com/challenges/self-balancing-tree/problem)
+        - [Heap](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=heap)
+        - [Hash Table](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
+        - [Stack](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=stacks)
+        - [Queue](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=queues)
+        - [Trie](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trie)
+        - [Graph (both directed & undirected)](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=disjoint-set)
+    
+    - Algorithms
+
+        - [Sorting](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting&filters%5Bdifficulty%5D%5B%5D=medium)
+
+            - Bubble Sort
+            - Merge Sort
+            - Quick Sort
+            - Radix/Bucket Sort
+
+        - [Traversals](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=hard) or [Graph Theory](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bsubdomains%5D%5B%5D=graph-theory&filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=hard)
+
+            - Depth First Search
+            - Breadth First Search
+            - Recursion
+
+        - [Search](https://www.hackerrank.com/domains/algorithms?filters%5Bdifficulty%5D%5B%5D=medium&filters%5Bdifficulty%5D%5B%5D=easy&filters%5Bdifficulty%5D%5B%5D=hard&filters%5Bsubdomains%5D%5B%5D=search)
+
+            - Sequential Search (ex: Linear)
+            - Interval Search (ex: Binary)
+                - Jump Search
+                - Interpolation
+
+- [Ninety Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
 ### Design Systems
 
