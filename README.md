@@ -79,6 +79,8 @@
                 - Jump Search
                 - Interpolation
 
+- [Ninety Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+
 ### Design Systems
 
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
