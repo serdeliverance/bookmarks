@@ -87,6 +87,8 @@
 
 - [Project Euler](https://projecteuler.net/archives)
 
+    - [Solutions of the first 33 exercises in Scala](https://pavelfatin.com/scala-for-project-euler/)
+
 ### Design Systems
 
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
