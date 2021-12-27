@@ -85,6 +85,8 @@
 
 - [Neetcode (Youtube Channel)](https://www.youtube.com/channel/UC_mYaQAE6-71rjSN6CeCA-g)
 
+- [Project Euler](https://projecteuler.net/archives)
+
 ### Design Systems
 
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -126,6 +128,10 @@
 
 - [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class/blob/master/README.markdown)
 
+### Divers
+
+- [Should you go beyound relation databases?](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases)
+
 ## Machine Learning
 
 ### resources
@@ -165,8 +171,3 @@
 - [Blockchain explained](https://www.youtube.com/watch?v=QphJEO9ZX6s&ab_channel=IBMTechnology)
 
 - [Blockchain under the hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE&ab_channel=CuriousInventor)
-
-## Apache Pulsar
-
-- [Apache Pulsar with Scala](https://www.youtube.com/watch?v=u4lTUIFm1lw&ab_channel=RocktheJVM) by Rock the JVM
-- [Apache Pulsar architecture](https://www.youtube.com/watch?v=De6avNyQUMw&ab_channel=Devoxx) by Devoxx Conf
