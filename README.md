@@ -12,6 +12,12 @@
 
 - [Scala at Scale at Databricks](https://www.youtube.com/watch?app=desktop&v=UiN6yZPAYww&ab_channel=ScalaCon)
 
+### ZIO
+
+- [ZIO App Architecture](https://www.youtube.com/watch?v=yXcqjQ7Kcwk) by `Kit Langton`
+
+- [Building Asynchronous Microservices With ZIO](https://www.youtube.com/watch?v=F6f5l3vc_dQ) by `Alexandra Skrbic`
+
 ### Typelevel
 
 #### fs2
@@ -20,11 +26,13 @@
 
 - [A small guide to circe-fs2](https://benfradet.github.io/blog/2017/07/29/a-small-guide-to-circe-fs2)
 
-## Haskell
-
 ### Talks
 
 - [Replacing functions with data](https://www.youtube.com/watch?v=wppzFzzD4b8&ab_channel=Konfy) by `Bartosz Milewski `
+
+### Scala 3
+
+- [Scala 3 will be awesome](https://www.youtube.com/watch?v=lA37gzEiQw4)
 
 ## Golang
 
