@@ -24,6 +24,10 @@
 
 - [From idea to product with ZLayer](https://scala.monster/welcome-zio/) by `Pavels Sisojevs`
 
+#### Zymposium
+
+- [Concurrency Challenges](https://www.youtube.com/watch?v=uv0kyCCfB1Q) by `Kit Langton` and `Adam Fraser`
+
 ### Typelevel
 
 #### fs2
