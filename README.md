@@ -18,6 +18,12 @@
 
 - [Building Asynchronous Microservices With ZIO](https://www.youtube.com/watch?v=F6f5l3vc_dQ) by `Alexandra Skrbic`
 
+- [Building High-Performance Notification Engine with ZIO](https://www.linkedin.com/pulse/building-high-performance-notification-engine-using-pure-otun/?trackingId=h5sb37bPII%2BHuadXmwpccg%3D%3D) by `Oluwaseyi Otun`
+
+- [Modeling & Building a PayRoll Engine using ZIO](https://www.linkedin.com/pulse/modeling-building-payroll-engine-using-functional-effects-otun/) by `Oluwaseyi Otun`
+
+- [From idea to product with ZLayer](https://scala.monster/welcome-zio/) by `Pavels Sisojevs`
+
 ### Typelevel
 
 #### fs2
