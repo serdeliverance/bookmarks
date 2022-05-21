@@ -48,6 +48,14 @@
 
 - [Go concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&ab_channel=GoogleDevelopers) by Google
 
+## Java
+
+### JVM
+
+- [Get ready to deep dive into Java Memory Management: Structure of JVM](https://coderstea.in/post/java/get-ready-to-deep-dive-java-memory-management-structure-of-jvm/)
+
+- [Get ready to deep dive into Java Memory Management: Garbage Collector](https://coderstea.in/post/java/get-ready-to-deep-dive-java-memory-management-garbage-collector/)
+
 ## CTCI
 
 ### Algorithms
