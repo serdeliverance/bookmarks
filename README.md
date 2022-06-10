@@ -115,6 +115,30 @@
 
     - [Solutions of the first 33 exercises in Scala](https://pavelfatin.com/scala-for-project-euler/)
 
+- `Another resources recommendation`:
+
+    - [Graph Algorithms for coding Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+
+    - [Topological Sort | Kahn's Algorithm](https://www.youtube.com/watch?v=cIBFEhD77b4)
+
+    - [Dijkstra's Shortest Path Algorithm](https://www.youtube.com/watch?v=pSqmAO-m7Lk)
+
+    - [Union Find | Kruskal's Algorithm](https://www.youtube.com/watch?v=JZBQLXgSGfs)
+
+    - [Union Find](https://www.youtube.com/watch?v=ibjEGG7ylHk)
+
+    - [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+
+    - [Binary Search](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
+    - [System Design Interview](https://www.youtube.com/c/SystemDesignInterview)
+
+    - [More geek resources](https://kousiknath.medium.com/)
+
+    - [Latency measures](https://gist.github.com/jboner/2841832)
+    
+    - [Design Data-Intesive Applications (book)](https://dataintensive.net/)
+
 ### Design Systems
 
 - [Systems Design Primer](https://github.com/donnemartin/system-design-primer)
